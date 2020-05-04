@@ -3,6 +3,8 @@
 
 This is a course project of CS4186.
 
+There is the [installation guide](https://github.com/RKLho/hand_detection_spaceinvader/blob/master/installation_guide.md)
+
 ## Reference
 [Hand tracking](https://github.com/victordibia/handtracking)
 
